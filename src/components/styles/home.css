@@ -1,0 +1,54 @@
+/* Colors*/
+.color1 {color: #541902;}
+.color2 {color: #803608;}
+.color3 {color: #b75f11;}
+.color4 {color: #fc991d;}
+.color5 {color: #ffe12f;}
+
+/*Content*/
+h2 {
+	text-align: center;
+	font-size: 48px;
+	font-weight: 500;
+	line-height: 56px;
+	color: #803608;
+	margin: 80px;
+}
+
+.about-para {
+	margin-bottom: 20px;
+}
+
+.about-para p {
+	color: #242424;
+	line-height: 32px;
+	text-align: justify;
+}
+
+
+/*Follow */
+.follow-facebook {
+	background: #f7f7f7;
+	padding: 50px 0;
+}
+
+.follow-facebook h3 {
+	font-size: 36px;
+	color: #541902;
+	line-height: 72px;
+	font-weight: 400;
+}
+
+.follow-facebook h3 a{
+	font-size: 36px;
+	color: #fc991d;
+	line-height: 72px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.image-room img {
+	width: 25%;
+	padding: 0%;
+}
+
