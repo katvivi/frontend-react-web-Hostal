@@ -13,6 +13,7 @@ import follow4 from "../image/follow/follow-4.jpg";
 
 /*Styles*/
 import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/js/dist/carousel";
 import "./styles/home.css";
 
 export default class HomeGrid extends Component {
