@@ -1,0 +1,27 @@
+/* Colors*/
+.color1 {color: #541902;}
+.color2 {color: #803608;}
+.color3 {color: #b75f11;}
+.color4 {color: #fc991d;}
+.color5 {color: #ffe12f;}
+
+.hero-image {
+	background: url(../../image/header/header1.jpg) no-repeat center; 
+	background-size: cover;
+	height: 300px;
+	position: relative;
+  }
+  
+  .hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
+
+  .hero-text h1 {
+	  font-size: 5rem;
+	  text-shadow: 3px 3px 2px #541902 ;
+   color: #ffff ;
+  }

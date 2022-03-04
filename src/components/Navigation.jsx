@@ -48,6 +48,12 @@ export default class Navigation extends Component {
                   Reserva ahora
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/habitacionCRUD">
+                  Ingreso|Habitacion
+                </Link>
+              </li>
+
             </ul>
           </div>
         </div>

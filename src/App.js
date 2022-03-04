@@ -8,6 +8,7 @@ import HomeGrid from "./components/HomeGrid";
 import Habitacion from "./pages/Habitacion";
 import Blog from "./pages/Blog";
 import Reserva from "./pages/Reserva";
+import HabitacionCRUD from "./pages/HabitacionCRUD";
 
 export function App() {
   return (
@@ -26,6 +27,8 @@ export function App() {
           <Route exact path="/reserva" component={reserva} /> */}
           <Route exact path="/blog" element={<Blog />} />
           <Route exact path="/reserva" element={<Reserva />} />
+          <Route exact path="/habitacionCRUD" element={<HabitacionCRUD />} />
+
         </Routes>
       </main>
 
